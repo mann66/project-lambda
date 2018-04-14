@@ -1,0 +1,17 @@
+// global
+
+@import "global/fonts.scss";
+@import "global/variables.scss";
+@import "global/mixins.scss";
+@import "global/base.scss";
+@import "global/layaut.scss";
+
+
+// blocks
+
+@import "blocks/main-nav.scss";
+@import "blocks/page-header.scss";
+@import "blocks/page-footer.scss";
+@import "pages/forms-page.scss";
+@import "pages/main-page.scss";
+@import "pages/photo-page.scss";
